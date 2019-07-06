@@ -1,0 +1,6 @@
+usr/local/bin/mpower-qt usr/bin
+share/pixmaps/mpower32.xpm usr/share/pixmaps
+share/pixmaps/mpower16.xpm usr/share/pixmaps
+share/pixmaps/mpower128.png usr/share/pixmaps
+debian/mpower-qt.desktop usr/share/applications
+debian/mpower-qt.protocol usr/share/kde4/services/

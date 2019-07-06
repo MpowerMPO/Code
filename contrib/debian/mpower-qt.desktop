@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Mpower Core
+Comment=Mpower P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Mpower peer-to-peer Netzwerk
+Comment[fr]=Mpower, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Mpower, eşten eşe kriptografik sanal para birimi
+Exec=mpower-qt %u
+Terminal=false
+Type=Application
+Icon=mpower128
+MimeType=x-scheme-handler/mpower;
+Categories=Office;Finance;

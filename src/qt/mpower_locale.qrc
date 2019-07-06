@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/mpower_bg.qm</file>
+        <file alias="de">locale/mpower_de.qm</file>
+        <file alias="en">locale/mpower_en.qm</file>
+        <file alias="es">locale/mpower_es.qm</file>
+        <file alias="fi">locale/mpower_fi.qm</file>
+        <file alias="fr">locale/mpower_fr.qm</file>
+        <file alias="it">locale/mpower_it.qm</file>
+        <file alias="ja">locale/mpower_ja.qm</file>
+        <file alias="nl">locale/mpower_nl.qm</file>
+        <file alias="pl">locale/mpower_pl.qm</file>
+        <file alias="pt">locale/mpower_pt.qm</file>
+        <file alias="ru">locale/mpower_ru.qm</file>
+        <file alias="sk">locale/mpower_sk.qm</file>
+        <file alias="sv">locale/mpower_sv.qm</file>
+        <file alias="vi">locale/mpower_vi.qm</file>
+        <file alias="zh_CN">locale/mpower_zh_CN.qm</file>
+        <file alias="zh_TW">locale/mpower_zh_TW.qm</file>
+    </qresource>
+</RCC>
